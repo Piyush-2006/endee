@@ -1,4 +1,30 @@
-<p align="center">
+# AI Semantic Search Project using Endee
+
+## Candidate Information
+Name: Piyush Kumar  
+GitHub: https://github.com/Piyush-2006  
+
+## Project Overview
+This project demonstrates a simple semantic search system using vector embeddings and the Endee vector database.  
+The system converts text documents into embeddings using a transformer model and retrieves the most relevant results using vector similarity search.
+
+## Problem Statement
+Traditional keyword search often fails to understand the meaning of user queries.  
+Semantic search solves this problem by converting text into vector embeddings and finding similar meanings rather than exact keywords.
+
+## System Workflow
+User Query → Convert to Embedding → Vector Similarity Search → Return Most Relevant Documents
+
+## Technologies Used
+- Python
+- Sentence Transformers
+- Endee Vector Database
+- Machine Learning Embeddings
+- NumPy
+- Pandas
+
+## Project Structure 
+ <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="docs/assets/logo-light.svg">
